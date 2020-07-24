@@ -1,4 +1,7 @@
 ## Hi there 👋 Ask me anything!
+<a href="https://github.com/abhinav2127?tab=repositories">
+    <img width="50%" align="right" alt="Abhinav jha's github" src="https://github-readme-stats.vercel.app/api?username=abhinav2127&show_icons=true&hide_border=true" />
+</a>
 
 I am a software engineer with the power of patience towards tolerance of dirty code. With the power of smell, I have excelled my hobbies or cooking and travelling (I travel to breathe fresh air as in Indian cities we always have a pollution problem).
 
@@ -24,8 +27,6 @@ To know more about me, connect with me on the following channels:
 - 💬 Ask me anything on my [**Discord**](https://discord.gg/Tzas8sd) server.
 - 📫 Use above connections to reachout to me. Add `Query: ` as subject.
 - 😄 Feel free to explore my life [over here](https://github.com/abhinav2127).
-
-![abhinav jha's github](https://github-readme-stats.vercel.app/api?username=abhinav2127&show_icons=true&hide_border=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinav2127.abhinav2127)
 
