@@ -26,7 +26,7 @@ To know more about me, connect with me on the following channels:
   - `Disclaimer: If you have any opportunity feel free to contact me.`
 - 💬 Ask me anything on my [**Discord**](https://discord.gg/Tzas8sd) server.
 - 📫 Use above connections to reachout to me. Add `Query: ` as subject.
-- 😄 Feel free to explore my life [over here](https://github.com/abhinav2127).
+- 😄 Feel free to explore my life [over here](https://abhinav2127.github.io/).
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinav2127.abhinav2127)
 
