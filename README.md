@@ -19,9 +19,9 @@ To know more about me, connect with me on the following channels:
 #### Talking about Personal Stuffs:
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ScarceBrownCaimanlizard-size_restricted.gif" />
 
-- 👨🏽‍💻 I'm currently a **Software Developer** at **Nagarro Softwares** providing services on **Microservice** and **Cloud Computing**.
-- 🌱 I'm currently learning **React**, **Python** and **Cloud Computing**.
-- 👯 I'm looking for collaboration on [The Polyglots Academy](https://github.com/thepolyglotacademy) non-profit developer community.
+- 👨🏽‍💻 I'm currently a **Software Developer** at **Nagarro Softwares** working on **Microservice** and **Cloud Computing**.
+- 🌱 I'm currently exploring **React**, **Python** and **Cloud Computing** boundaries.
+- 👯 I'm looking for collaboration for [The Polyglots Academy](https://github.com/thepolyglotacademy) to support non-profit developer community.
 - 🤔 I'm interested to work with **Natural Language Processing** and **IOT and AI Self Learning Cloud Services** for cloud platforms. 
   - `Disclaimer: If you have any opportunity feel free to contact me.`
 - 💬 Ask me anything on my [**Discord**](https://discord.gg/Tzas8sd) server.
