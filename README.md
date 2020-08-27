@@ -7,7 +7,7 @@ I am a software engineer with the power of patience towards tolerance of dirty c
 
 To know more about me, connect with me on the following channels:
 
-[![Discord Badge](https://img.shields.io/badge/-HireMe-7289d9?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/Tzas8sd)](https://discord.gg/Tzas8sd)
+[![Discord Badge](https://img.shields.io/badge/-AskMeAnything-7289d9?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/Tzas8sd)](https://discord.gg/Tzas8sd)
 [![Leave Contact Badge](https://img.shields.io/badge/-Leave__HR__Contact-459e5e?style=flat&logo=appveyor&logoColor=white&link=https://forms.gle/ZWbGRnbY9FJiXbGi6)](https://forms.gle/ZWbGRnbY9FJiXbGi6)
 [![Linkedin Badge](https://img.shields.io/badge/-abhinavjha58-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavjha58/)](https://www.linkedin.com/in/abhinavjha58/)
 [![Medium Badge](https://img.shields.io/badge/-@__abhinav.jha58-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@abhinav.jha58)](https://medium.com/@abhinav.jha58)
